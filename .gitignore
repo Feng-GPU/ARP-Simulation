@@ -1,0 +1,12 @@
+.venv/
+.venv-incomplete-39/
+__pycache__/
+*/__pycache__/
+.pytest_cache/
+ui-preview.png
+ui-preview-new.png
+ui-preview-small.png
+ui-preview-timeline.png
+combo-popup-preview.png
+ui-preview-final.png
+ui-preview-zoom.png
